@@ -1,0 +1,1 @@
+These two user-provided clips are copied here but intentionally not assigned labels yet. Review each and move it to data/videos/normal/ or data/videos/detected/ only after confirming ground truth. Training requires at least 10 labeled clips in each class. Supported formats: mp4, mov, avi, mkv.
